@@ -1,3 +1,4 @@
 workspace.xml
 task.xml
 .idea/*
+target/
