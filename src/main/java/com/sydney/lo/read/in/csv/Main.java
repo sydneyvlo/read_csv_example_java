@@ -1,4 +1,4 @@
-package com.sydney.lo.helloworld;
+package com.sydney.lo.read.in.csv;
 
 /**
  * Hello world!
